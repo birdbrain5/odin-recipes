@@ -1,0 +1,1 @@
+This is a project to test my HTML skills. I will also practice staging and committing files to a git repo.
